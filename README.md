@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/8ZAT78g.png" alt="Diego Segovia" width="100%">
+  <img src="" alt="Diego Segovia" width="100%">
 </div>
 
 <br>
