@@ -1,16 +1,30 @@
-## Hi there 👋
+# Diego Francisco Segovia
 
-<!--
-**SegoviaAlatoreDiegoFrancisco/SegoviaAlatoreDiegoFrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Perfil
+Desarrollador en formación con interés en **inteligencia artificial**, **desarrollo web** y **soluciones empresariales**.  
+Me apasiona crear proyectos que combinen innovación tecnológica con impacto práctico.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
+- **Red Neuronal para Visión Artificial**  
+  Implementación de un modelo de aprendizaje profundo para reconocimiento de imágenes y patrones visuales.  
+  [Repositorio](https://github.com/SegoviaAlatoreDiegoFrancisco/Red_Neuronal-para-Vision_Artificial-con-Logica_difusa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hitss**  
+  Desarrollo de soluciones empresariales con enfoque en optimización de procesos y gestión de datos.  
+  [Repositorio](https://github.com/SegoviaAlatoreDiegoFrancisco/Hitss_ProyectoTarea_SegoviaAlatorreDiegoFrancisco)
+
+- **SalasRegistroCCyT**  
+  Sistema de registro y administración de salas para proyectos de investigación.  
+  [Repositorio](https://github.com/SegoviaAlatoreDiegoFrancisco/SalasRegistroCCyT)
+
+## Tecnologías
+- **Lenguajes:** Python, Java, JavaScript  
+- **Frameworks:** Flask, Spring Boot  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Herramientas:** Git, Docker
+
+## Contacto
+- [LinkedIn](www.linkedin.com/in/francisco-segovia-alatorre-84ba89322) 
+
+
+
