@@ -43,8 +43,8 @@ Me gusta crear proyectos que combinen innovación tecnológica con impacto real.
 
 <div align="center">
   
-  [![RedNeuronalVisionArtificial](https://github-readme-stats.vercel.app/api/pin/?username=SegoviaAlatoreDiegoFrancisco&repo=RedNeuronalVisionArtificial&theme=algolia&show_owner=false)](https://github.com/SegoviaAlatoreDiegoFrancisco/RedNeuronalVisionArtificial)
-  [![Hitss](https://github-readme-stats.vercel.app/api/pin/?username=SegoviaAlatoreDiegoFrancisco&repo=Hitss&theme=algolia&show_owner=false)](https://github.com/SegoviaAlatoreDiegoFrancisco/Hitss)
+  [![RedNeuronalVisionArtificial](https://github-readme-stats.vercel.app/api/pin/?username=SegoviaAlatoreDiegoFrancisco&repo=RedNeuronalVisionArtificial&theme=algolia&show_owner=false)](https://github.com/SegoviaAlatoreDiegoFrancisco/Red_Neuronal-para-Vision_Artificial-con-Logica_difusa)
+  [![Hitss](https://github-readme-stats.vercel.app/api/pin/?username=SegoviaAlatoreDiegoFrancisco&repo=Hitss&theme=algolia&show_owner=false)](https://github.com/SegoviaAlatoreDiegoFrancisco/Hitss_ProyectoTarea_SegoviaAlatorreDiegoFrancisco)
   [![SalasRegistroCCyT](https://github-readme-stats.vercel.app/api/pin/?username=SegoviaAlatoreDiegoFrancisco&repo=SalasRegistroCCyT&theme=algolia&show_owner=false)](https://github.com/SegoviaAlatoreDiegoFrancisco/SalasRegistroCCyT)
 
 </div>
